@@ -1,0 +1,25 @@
+//A list of all the functions that should be implemented in the project
+
+//Admin Module
+1)Profile
+2)Add Teacher
+3)Add Course
+4)Allocate course to Teacher
+5)Allocate Teacher to class
+
+//Staff Module
+1)Profile
+2)Send Notices
+3)Term work Upload
+4)Assignments(MCQs) Upload
+5)Term work checking
+6)Report Generation
+7)Batch Creation
+
+//Student Module
+1)Profile
+2)Course Selection
+3)Term work Selection
+4)Term work Upload
+5)Assignments Selection
+6)Notices Dashboard
